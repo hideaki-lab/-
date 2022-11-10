@@ -2,7 +2,6 @@ import os
 import sys
 import time
 import json
-from tkinter import W
 import streamlit as st
 
 from array import array
